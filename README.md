@@ -3,5 +3,5 @@
 
 I'm currently learning HTML and CSS, hopefully some useful stuff later on, like Rust, Lua, whatever.
 
-_@blldsp - discord_
+_@blldsp - discord_ \n
 _blldsp@proton.me - e-mail_
